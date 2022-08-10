@@ -19,5 +19,4 @@ if __name__ == '__main__': # import cogs from cogs folder
     for extension in extensions:
         bot.load_extension(extension)
 
-# bot.run('YOUR_BOT_TOKEN_FROM_DEV_PORTAL')  # bot token
-bot.run('OTMxMzkzNTQxMDk4MzExNzEz.GrZGLV.ee-eq4dxpEXWYERQaiG0zj7hpjIJfkfjDEHSSA')  # bot token
+bot.run('YOUR_BOT_TOKEN_FROM_DEV_PORTAL')  # bot token
